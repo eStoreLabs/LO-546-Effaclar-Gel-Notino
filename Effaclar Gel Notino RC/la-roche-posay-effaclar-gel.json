@@ -1,0 +1,833 @@
+{
+    "keys": [
+        "la-roche-posay/effaclarel-oczyszczajcy-do-skory-tlustej/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Effaclar Gel",
+    "rpc": "LRP0192",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Effaclar Gel",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV2.jpg",
+                                "element": "img",
+                                "alt": "Żel oczyszczający z ulepszoną formułą dla skóry trądzikowej",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV2-mobile.jpg",
+                                "element": "img",
+                                "alt": "Żel oczyszczający z ulepszoną formułą dla skóry trądzikowej",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD2-02.jpg",
+                                "element": "img",
+                                "alt": "Skutecznie i delikatnie oczyszcza skórę skłonną do trądziku. Utrzymuje prawidłowe ph skóry, reguluje nadmiar sebum, podostawia skórę czystą",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "marginTop": "35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD2-02-mobile.jpg",
+                                "element": "img",
+                                "alt": "Skutecznie i delikatnie oczyszcza skórę skłonną do trądziku. Utrzymuje prawidłowe ph skóry, reguluje nadmiar sebum, podostawia skórę czystą",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Kluczowe dermatologiczne składniki aktywne",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "10px",
+                            "marginBottom": "15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {}
+                            },
+                            {
+                                "name": "content",
+                                "value": "PHYLOBIOMA - zmniejsza namnażania się batkerii C.acnes IA1 odpowiedzialnych za nasilanie się objawów trądziku. CYNK PCA - zwiększa nawilżenie skóry, poprawia jej jędrność i elastyczność, reguluje wydzielanie sebum. WODA TERMALNA Z LA ROCHE-POSAY - koi i zmniejsza podrażnienia skóry​.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "1.8",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD2-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px",
+                            "marginBottom": "40px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD2-04.jpg",
+                                "element": "img",
+                                "alt": "Skuteczność potwierdzona badaniami. 98% badanych potwierdza, że produkt natychmiastowo i łagodnie oczyszcza skórę. 43% mnie wyprysków. 45% mniej wągrów",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD2-04-mobile.jpg",
+                                "element": "img",
+                                "alt": "Skuteczność potwierdzona badaniami. 98% badanych potwierdza, że produkt natychmiastowo i łagodnie oczyszcza skórę. 43% mnie wyprysków. 45% mniej wągrów",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Odkryj bestsellery La Roche-Posay",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "10px",
+                            "marginBottom": "15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsFive",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Balsam regenerujący o potrójnym działaniu",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-05-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Regenerujące i\u00a0ujędrniajace serum",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-05-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Silnie regenerujący balsam kojący",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-05-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourTitle",
+                                "value": "Długotrwała ochrona przed UVA",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourAsset",
+                                "value": "MOD-05-D.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFiveTitle",
+                                "value": "Krem o potrójnym działaniu przeciw niedoskonałościom",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFiveText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFiveAsset",
+                                "value": "MOD-05-E.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Benefity",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "OCZYSZCZANIE - Skutecznie i delikatnie oczyszcza skórę. Usuwa zanieczyszczenia i pozostawia skórę czystą i odświeżoną. REDUKCJA SEBUM - Redukuje nadmiar sebum i pomaga odblokować pory. REGULACJA PH - Utrzymuje prawidłowe pH skóry. Składniki: Phylobioma, Cynk,  Woda termalna z La Roche-Posay",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-06-A.jpg",
+                                "element": "img",
+                                "alt": "żel oczyszczający",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Benefity",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "REDUKCJA NIEDOSKONAŁOŚCI - Zawiera składnik Phylobioma, który przeciwdziała namnażaniu się bakterii C.acnes typu IA1, odpowiadających za rozwój i nasilenie objawów trądziku. SZYBKO I SKUTECZNIE ZWALCZA ZASKÓRNIKI I WYPRYSKI - Widoczne efekty po 8H(1). 24H* NAWILŻENIE - Działa nawilżająco i kojąco. Składniki: Phylobioma, Procerad ™, Niacynamid ",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-06-B.jpg",
+                                "element": "img",
+                                "alt": "Duo+M redukuje zaskórniki i wypryski",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Benefity",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "DŁUGOTRWAŁA OCHRONA PRZED UVA - Ochrona przed UVA/UVB oraz ultradługimi promieniami UVA. ODPOWIEDNI DLA SKÓRY WRAŻLIWEJ I SKŁONNEJ DO ALERGII SŁONECZNEJ - Koi i odżywia skórę. KONSYSTENCJA NIEWIDOCZNA NA SKÓRZE - Nie pozostawia białych śladów na skórze. Składniki: Mexoryl 400, Gliceryna, Woda Termalna z La Roche-Posay",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-06-C.jpg",
+                                "element": "img",
+                                "alt": "Niewidoczny fluid spf 50+",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Wspieraj mikrobiom skóry z Effaclarem!",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "40px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Utrzymanie równowagi mikrobiomu jest kluczowe dla zdrowego wyglądu skóry. Wypróbuj duet Effaclar wzbogacony o składnik Phylobioma, wspierający mikrobiom skóry i przeciwdziałający namnażaniu się bakterii C.acnes typu IA1 odpowiedzialnych za nasilenie się objawów trądziku.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "1.5",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-07.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px",
+                            "marginBottom": "40px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-08.jpg",
+                                "element": "img",
+                                "alt": "Zaawansowana pielęgnacja dermatologiczna, zmieniające życie formuły przebadane przez dermatologów, wsparcie dla pacjentów onkologicznych",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-08-mobile.jpg",
+                                "element": "img",
+                                "alt": "Zaawansowana pielęgnacja dermatologiczna, zmieniające życie formuły przebadane przez dermatologów, wsparcie dla pacjentów onkologicznych",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Jakie są przyczyny trądziku?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "20px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Trądzik powstaje w wyniku zaburzeń hormonalnych, które prowadzą do nadmiernej produkcji sebum w gruczołach łojowych. Te same hormony przyspieszają także wzrost komórek skóry, które wyściełają pory. W wyniku tego dochodzi do ich zatykania, a połączenie komórek i sebum staje się idealnym środowiskiem dla bakterii wywołujących trądzik. Skutkiem tego są różnorodne wypryski, takie jak czerwone krosty i pryszcze.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "0",
+                            "marginBottom": "10px",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Jak pielęgnować skórę skłonną do trądziku?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "30px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Aby zadbać o skórę słonną do trądziku i niedoskonałości, pamietaj o kilku podstawowych zasadach: myj twarz 2x dziennie, np. Żelem Oczyszczającym Effaclar, pamiętaj o wieczornym oczyszczaniu skóry. Nie zasypiaj w makijażu, nie wyciskaj pryszczy i nie dotykaj twarzy nieumytymi rękoma, unikaj przesuszania skóry, unikaj agresywnych środków myjących i zbyt częstych peelingów, szczególnie tych intensywnie złuszczających. Zbyt silne produkty mogą wywołać łojotok i nasilić trądzik. Używaj kremów z filtrem, które nie zapychają porów (np. Anthelios UVMUNE 400 Oil Control Fluid). W razie wątpliwości, porozmawiaj o pielęgnacji dopasowanej do potrzeb Twojej skóry z lekarzem lub farmaceutą.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "0",
+                            "marginBottom": "10px",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Jak załagodzić niedoskonałości i zmiany potrądzikowe?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "30px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Łagodne zmiany trądzikowe można redukować stosując odpowiednie dermokosmetyki. Oczyszczaj skórę dwa razy dziennie wodą micelarną lub żelem oczyszczającym. Stosuj codzienną pielęgnację z aktywnymi składnikami, takimi jak: kwas salicylowy, niacynamid czy procerad. Przyczyną powstawania niedoskonałości może być zachwiana równowaga mikrobiomu skóry. Pomocny okaże się składnik Phylobioma, który wspiera mikrobiom i hamuje namnażanie się bakterii C. acnes IA1 odpowiedzialnych za rozwój trądziku. Znajdziesz go w dermokosmetykach do pielęgnacji twarzy La Roche-Posay: Kremie Effaclar DUO+M oraz Żelu Oczyszczającym Effaclar. Jeśli te zabiegi okażą się niewystarczające, skorzystaj z pomocy dermatologa.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "0",
+                            "marginBottom": "20px",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "1 Badanie konsumenckie, 50 osób.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "13px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom":"0",
+                                    "marginTop":"10px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "0",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "2 Badanie kliniczne, 51 osób, 4 tygodnie stosowania.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "13px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom":"0",
+                                    "marginTop":"-20px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "0",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "3 Badanie konsumenckie, 54 osoby.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "13px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "marginBottom":"0",
+                                    "marginTop":"-20px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "0",
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
